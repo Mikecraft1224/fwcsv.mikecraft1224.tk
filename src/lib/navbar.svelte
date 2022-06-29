@@ -19,7 +19,7 @@
           <li><a href="/">Item 3</a></li>
         </ul>
       </div>
-      <a href="mikecraft1224.tk" class="btn btn-ghost normal-case text-xl">Mikecraft1224</a>
+      <a href="https://mikecraft1224.tk" class="btn btn-ghost normal-case text-xl">Mikecraft1224</a>
     </div>
     <div class="navbar-center hidden lg:flex">
       <ul class="menu menu-horizontal p-0">
