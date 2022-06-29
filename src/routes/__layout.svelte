@@ -9,11 +9,11 @@
     <link rel='icon' type='image/vnd.microsoft.icon' href='/Icon.ico'>
 </svelte:head>
 
-<Navbar />
-
-<slot />
-
-<Footer />
+<div class="min-h-screen">
+    <Navbar />
+    <slot />
+    <Footer />
+</div>
 
 <style>
 	:global(body) {

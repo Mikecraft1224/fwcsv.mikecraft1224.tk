@@ -18,7 +18,11 @@ const config = {
 		extend: {}
 	},
 
-	plugins: []
+	plugins: [require("daisyui")],
+
+  daisyui: {
+    themes: ["dark"]
+  }
 };
 
 module.exports = config;

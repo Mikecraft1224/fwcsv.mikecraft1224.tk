@@ -1,10 +1,10 @@
-<div class="container px-8 py-8 mx-auto mt-12 flex items-center flex-col md:flex-row">
-	<a href="/" class="flex title-font font-medium items-center md:justify-start justify-center">
+<div class="container px-8 py-8 mx-auto mt-12 flex items-center flex-col md:flex-row absolute bottom-0">
+	<a href="mikecraft1224.tk" class="flex title-font font-medium items-center md:justify-start justify-center">
 		<img src="/favicon.webp" alt="Logo" class="w-12 h-12 md:w-16 md:h-16 p-2" />
-		<span class="text-lg md:text-xl ml-3">Mikecraft1224 | </span>
+		<span class="text-lg md:text-xl ml-3">Mikecraft1224</span>
 	</a>
 
-	<a class="md:ml-3" href="/impressum">
+	<a class="md:ml-3" href="mikecraft1224.tk/impressum">
 		<span class="text-lg md:text-xl ml-3"><u>Impressum</u></span>
 	</a>
 
