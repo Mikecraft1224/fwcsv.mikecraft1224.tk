@@ -1,4 +1,4 @@
-<div class="container px-8 py-8 mx-auto mt-12 flex items-center flex-col md:flex-row absolute bottom-0">
+<div class="container px-8 py-8 mx-auto mt-12 flex items-center flex-col md:flex-row absolute inset-x-0 bottom-0">
 	<a href="https://mikecraft1224.tk" class="flex title-font font-medium items-center md:justify-start justify-center">
 		<img src="/favicon.webp" alt="Logo" class="w-12 h-12 md:w-16 md:h-16 p-2" />
 		<span class="text-lg md:text-xl ml-3">Mikecraft1224</span>
